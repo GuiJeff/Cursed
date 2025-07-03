@@ -1,0 +1,500 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2487)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\guije\Downloads\Cursed 1.0V\Cursed\Build\Cursed_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3360x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.383700 ms
+ConvexHullBuilder: convex hull has more than 255 polygons!
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexHullBuilder.cpp Line: 1486)
+
+Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvexFlag::eINFLATE_CONVEX flag. (see PxToolkit::createConvexMeshSafe)
+ 
+(Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 266)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1498)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default (4)') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default (3)') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default (2)') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default (1)') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.814800 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4510.
+Total: 0.558100 ms (FindLiveObjects: 0.095600 ms CreateObjectMapping: 0.070000 ms MarkObjects: 0.367400 ms  DeleteObjects: 0.024500 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'default') is missing!
+ 
+(Filename:  Line: 1655)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4e5c -> priority: 1 
+  Thread -> id: 4b0c -> priority: 1 
+  Thread -> id: 1864 -> priority: 1 
